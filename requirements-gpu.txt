@@ -1,0 +1,4 @@
+# Install a JAX GPU build first, e.g. pip install -U "jax[cuda12]==0.6.2"
+flax==0.10.1
+optax==0.2.3
+numpy==2.0.2

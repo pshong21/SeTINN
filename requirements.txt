@@ -1,0 +1,6 @@
+# Python 3.11 or 3.12; JAX 0.6.2 as in the paper's runs. GPU: requirements-gpu.txt.
+jax==0.6.2
+jaxlib==0.6.2
+flax==0.10.1
+optax==0.2.3
+numpy==2.0.2
